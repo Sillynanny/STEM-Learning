@@ -1,2 +1,2 @@
 # STEM-Learning
-Contains lab notes, engineering project info, and advanced math notes
+Contains lab notes, engineering project info, and math notes
